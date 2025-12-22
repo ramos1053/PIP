@@ -119,7 +119,6 @@ A feature-rich, high-performance text editor for macOS designed for bash scripti
 
 ### Application Preferences
 - **Editor Tab**:
-  - Show/hide ruler
   - Show/hide line numbers with separator
   - Line wrapping
   - Show invisible characters (spaces, tabs, line endings, control chars)
